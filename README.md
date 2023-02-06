@@ -1,7 +1,7 @@
-# deskpet
+# Deskpet
 
 A foxy pet for your desktop.
 
 Add a virtual fox to your desktop. 
 
-TODO: Add screenshots...
+![foxy](resources/foxypet.gif)
